@@ -1,0 +1,105 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: white;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Brush Script MT";
+  color: #66BFBF;
+  line-height: 3;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: "papyrus";
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+.mountain {
+  margin-bottom: 0;
+}
+
+.personalImage {
+  height: 200px;
+  width: 200px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 25px;
+  border-color: #EAF6F6;
+  width: 10%;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.programmerImage {
+  height: 200px;
+  width: 200px;
+}
+
+.Java {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.HTMLCSS {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.topContainer {
+  padding-top: 100px;
+  position: static;
+  background-color: #EAF6F6;
+}
+
+.cloud1 {
+  top: 50px;
+  position: absolute;
+  right: 300px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.topContainer {
+  background-color: #EAF6F6;
+}
+
+.button {
+  background-color: white;
+  padding: 30px 50px;
+  margin-bottom: 200px;
+}
+
+.mailpng {
+  width: 50px;
+  height: 50px;
+}
+
+.bottom-container {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  position: relative;
+  background-color: #66BFBF;
+}
